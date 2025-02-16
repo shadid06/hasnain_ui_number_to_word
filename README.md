@@ -24,7 +24,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  hasnain_ui_number_to_word: ^1.0.0
+  hasnain_ui_number_to_word: ^1.0.1
 ```
 
 Then run:
